@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/snakegame-reverselinkedlist/static/css/main.7bd790b1.chunk.css",
+    "main.js": "/snakegame-reverselinkedlist/static/js/main.6ccb795b.chunk.js",
+    "main.js.map": "/snakegame-reverselinkedlist/static/js/main.6ccb795b.chunk.js.map",
+    "runtime-main.js": "/snakegame-reverselinkedlist/static/js/runtime-main.87a9ee4c.js",
+    "runtime-main.js.map": "/snakegame-reverselinkedlist/static/js/runtime-main.87a9ee4c.js.map",
+    "static/js/2.554f33be.chunk.js": "/snakegame-reverselinkedlist/static/js/2.554f33be.chunk.js",
+    "static/js/2.554f33be.chunk.js.map": "/snakegame-reverselinkedlist/static/js/2.554f33be.chunk.js.map",
+    "index.html": "/snakegame-reverselinkedlist/index.html",
+    "static/css/main.7bd790b1.chunk.css.map": "/snakegame-reverselinkedlist/static/css/main.7bd790b1.chunk.css.map",
+    "static/js/2.554f33be.chunk.js.LICENSE.txt": "/snakegame-reverselinkedlist/static/js/2.554f33be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a9ee4c.js",
+    "static/js/2.554f33be.chunk.js",
+    "static/css/main.7bd790b1.chunk.css",
+    "static/js/main.6ccb795b.chunk.js"
+  ]
+}
