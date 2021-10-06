@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#link to the game
+click http://hritikap.github.io/snakegame-reverselinkedlist to view the game
+
+
 ## Available Scripts
 
 In the project directory, you can run:
